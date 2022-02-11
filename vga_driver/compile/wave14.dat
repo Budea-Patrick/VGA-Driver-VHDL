@@ -1,0 +1,68 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 CLK
+$IN 5 1 RST
+$OUT 9 1 HSYNC
+$OUT +4 1 VSYNC
+I 2 "a#28#std_logic_vector(2 downto 0)1 ricd2 0 e#9#std_logicc9 UX01ZWLH-"
+$BUS OUT 29 2 3 RGB
+$SC 17-+8/4
+$S +5 1 clk25
+I 3 "i#7#integerrict-2147483648 2147483647 "
+$S +4 3 hPos
+$S +4 3 vPos
+$S +4 1 turnedOn
+$ENDTIME 10610630000
+$WAVES 5
+=0 T 0
+$VALUES
+V 1
+0
+$END
+$WAVES 1
+*0
+R 1 1061063 =1 T 10k
+$VALUES
+R 2 530532 0 1
+$END
+$WAVES 30
+*0
+=2 D 10k 1
+R 1 530531 =3 D 20k 1
+$VALUES
+R 2 265266 0 1
+V 1
+0
+$END
+$WAVES 42
+*0
+=4 D 10k 2
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 9 +4
+*0
+*4
+$VALUES
+V 2
+U
+1
+$END
+$WAVES +4-+8/4
+*0
+*4
+$VALUES
+V 2
+U
+0
+$END
+$WAVES +9 +4
+*0
+$VALUES
+V 1
+0
+$END
+$ENDWAVE

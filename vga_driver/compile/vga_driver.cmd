@@ -1,0 +1,1 @@
+-w -s "D:\Facultate\Semestrul 2\Digital System Design\Project\library.cfg"  -j "D:\Facultate\Semestrul 2\Digital System Design\Project\vga_driver\projlib.cfg"  -d "D:\Facultate\Semestrul 2\Digital System Design\Project\vga_driver\compile\"  -work vga_driver -dbg -e 100 "D:\Facultate\Semestrul 2\Digital System Design\Project\vga_driver\src\vga_driver.vhd" 

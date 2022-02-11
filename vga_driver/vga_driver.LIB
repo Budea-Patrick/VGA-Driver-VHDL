@@ -1,0 +1,23 @@
+timestamp=1621431706523
+
+[vga_driver]
+A/behavioral=A/Behavioral 21|./src/vga_driver.vhd|15|1*224245
+B/behavioral=3*0
+H/behavioral=0*228309
+R=./src/vga_driver.vhd|6
+V=0*187356
+
+[~A]
+./src/vga_driver.vhd~Behavioralvga_driver=0*229485*232606
+./src/vga_driver.vhd~vga_driver=0*181599*182002
+ModifyID=445
+Version=73
+
+[~MFT]
+0=457|0vga_driver.mgf|232606|225619
+1=130|1vga_driver.mgf|224245|224245
+3=0|3vga_driver.mgf|0|0
+
+[~U]
+vga_driver=11|0*186562|0*186816
+

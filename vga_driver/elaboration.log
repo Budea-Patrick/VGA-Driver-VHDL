@@ -1,0 +1,18 @@
+elbread.dll ver. 1.0.5.365 Thu May 20 19:12:53 2021
+
+
+---------------------------------------
+Entity      | Architecture | Library 
+---------------------------------------
+vga_driver  | behavioral   | vga_driver
+---------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+numeric_std         | ieee
+std_logic_unsigned  | ieee
+-----------------------------

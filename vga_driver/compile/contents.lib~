@@ -1,0 +1,3 @@
+445
+~E 1 "./src/vga_driver.vhd" 6 vga_driver
+~A 1 "./src/vga_driver.vhd" 15 behavioral

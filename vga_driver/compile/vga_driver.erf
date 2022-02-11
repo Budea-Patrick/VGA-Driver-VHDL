@@ -1,0 +1,5 @@
+MESSAGE "File: D:\Facultate\Semestrul 2\Digital System Design\Project\vga_driver\src\vga_driver.vhd" 
+MESSAGE "Compile Entity "vga_driver"" 
+MESSAGE "Entity `vga_driver' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Behavioral" of Entity "vga_driver"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.3 [s]" 
